@@ -1,6 +1,6 @@
 ---
 title: "About Microsoft Word"
-date: 2022-06-25
+date: 2025-05-09
 description: "Comprehensive Guide to Microsoft Word: Menus, Tools, and Shortcut Keys"
 tags: ["MSOffice"]
 ---
