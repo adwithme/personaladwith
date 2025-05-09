@@ -1,6 +1,6 @@
 ---
 title: "Bypassing Microsoft Account Setup in Windows 11 Using start ms-cxh:localonly: A Comprehensive Guide"
-date: 2022-06-25
+date: 2025-05-09
 description: "Understanding the `start ms-cxh:localonly` Command in Windows 11"
 tags: ["Windows"]
 ---
