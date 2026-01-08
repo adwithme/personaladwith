@@ -10,14 +10,14 @@ title = "Madhusudan"
   dateFormat = "2 January 2006"
   logo = "img/logo.png"
   secondaryLogo = "img/logo.png"
-  description = "IT Infrastructure Specialist"
+  description = "ICT Systems and Infrastructure Professional"
   # copyright = "Madhusudan"
 
  [author]
    name = "MADHUSUDAN UPADHYAY"
    image = "img/logo.png"
-   headline = "IT Infrastructure Specialist"
-#   bio = "IT Infrastructure Specialist"
+   headline = "ICT Systems and Infrastructure Professional"
+#   bio = "ICT Systems and Infrastructure Professional"
 links = [
     { x-twitter = "https://twitter.com/meupadhyay" },
     { linkedin = "https://www.linkedin.com/in/madhusudanupadhyay/" },
