@@ -1,72 +1,82 @@
 ---
 title: "About "
-Date: 2024-01-01
+Date: 2026-01-08
 description: ""
 ---
-# IT Professional  
-### ICT Support | Systems & Network Administration
+# ICT Systems and Infrastructure Professional
 
-Experienced IT professional with over eight years of experience supporting international development projects and public sector institutions. Focused on building stable, secure, and user-friendly IT environments while ensuring continuity of operations in both routine and high-pressure situations.
+Designing, maintaining, and improving reliable IT environments for organizations operating in structured, compliance-driven settings.  
+With over eight years of experience across international development projects and public sector institutions, I focus on secure systems, resilient infrastructure, and practical technology solutions that work at scale.
 
-Specialized in infrastructure management, enterprise systems, and cloud collaboration tools, with a strong emphasis on reliability, security, and clear user support.
-
----
-
-## What I Do
-
-- Manage and maintain enterprise IT infrastructure with high availability  
-- Administer Windows and Linux server environments  
-- Secure and monitor networks using firewalls, VPNs, and access controls  
-- Support Microsoft 365, SharePoint, and cloud collaboration platforms  
-- Deliver Level 1 and Level 2 technical support  
-- Manage IT assets, audits, and procurement support  
-- Enable secure remote work and virtual collaboration  
-- Create clear technical documentation and user guidance  
+My work sits at the intersection of infrastructure, enterprise systems, and cloud collaboration, ensuring continuity during both routine operations and critical situations.
 
 ---
 
-## Experience
+## Core Focus Areas
 
-### ICT Support Executive  
+- Enterprise IT systems and infrastructure management  
+- Windows and Linux systems administration  
+- Network architecture, security, and access control  
+- Microsoft 365, SharePoint, and cloud collaboration platforms  
+- IT operations, governance, and service processes  
+- Business continuity and emergency readiness  
+
+---
+
+## Professional Experience
+
+### ICT Systems and Infrastructure Professional  
 *International Development Project*  
 
-Responsible for IT operations, systems administration, network security, collaboration platforms, and user support in a compliance-driven environment. Support business continuity, emergency response operations, and day-to-day organizational needs through reliable IT services.
+Responsible for enterprise IT operations, systems administration, and network infrastructure in a policy-driven environment. Lead the management of core systems, collaboration platforms, and secure network services while ensuring availability, compliance, and operational continuity.
+
+Key responsibilities include:
+- Managing server, network, and power infrastructure with high availability  
+- Administering directory services, network services, and security controls  
+- Overseeing collaboration platforms and information systems  
+- Managing IT assets, audits, and procurement workflows  
+- Enabling secure remote access and virtual collaboration  
+- Supporting organizational continuity during emergency situations  
+
+---
 
 ### Computer Technician  
 *Government Institution*  
 
-Provided hardware, software, and network support across departments. Managed installations, troubleshooting, preventive maintenance, and system upgrades in line with institutional IT policies.
+Handled installation, configuration, and maintenance of IT systems and network equipment across multiple departments. Ensured system reliability through preventive maintenance, structured troubleshooting, and adherence to institutional IT standards.
+
+---
 
 ### Computer Instructor  
 *Educational Institution*  
 
-Delivered computer fundamentals and practical IT skills. Supported classroom technology and basic institutional systems.
+Delivered foundational IT education and managed classroom technology. Supported institutional systems and promoted practical digital skills.
 
 ---
 
 ## Key Contributions
 
-- Enabled uninterrupted operations through secure remote access solutions  
-- Led IT infrastructure deployment during office transitions  
-- Improved reporting and monitoring using dashboards and automation  
-- Strengthened IT asset tracking and audit readiness  
-- Reduced recurring support issues through documentation and user training  
+- Strengthened infrastructure resilience to support uninterrupted operations  
+- Enabled secure remote work and collaboration during critical periods  
+- Led IT deployments during office transitions and infrastructure changes  
+- Improved reporting, monitoring, and visibility through dashboards  
+- Enhanced asset tracking and audit readiness through structured processes  
 
 ---
 
-## Skills
+## Technical Competencies
 
-**Systems & Infrastructure**  
-Windows Server, Linux, virtualization platforms, scripting and automation  
+**Systems and Infrastructure**  
+Windows Server, enterprise Linux, virtualization platforms, automation and scripting  
 
-**Cloud & Collaboration**  
-Microsoft 365, SharePoint, cloud services, reporting tools  
+**Cloud and Enterprise Platforms**  
+Microsoft 365, SharePoint, cloud services, reporting and analytics tools  
 
-**Networking & Security**  
+**Networking and Security**  
 Enterprise networking, VPN, firewall configuration, monitoring and incident response  
 
 **IT Operations**  
-IT service management, disaster recovery planning, backup strategies, asset management  
+IT service management, disaster recovery planning, backup strategies, asset governance  
 
 ---
 
@@ -74,7 +84,7 @@ IT service management, disaster recovery planning, backup strategies, asset mana
 
 - Linux and systems administration certifications  
 - IT service management certification  
-- Enterprise IT and networking certifications  
+- Enterprise networking and infrastructure certifications  
 - Cloud and productivity platform certifications  
 
 ---
@@ -88,5 +98,6 @@ Bachelor’s degree with ICT specialization
 
 ## Contact
 
-For professional inquiries or collaboration opportunities, please use the contact form available on this website.
+For professional collaboration or project inquiries, please use the contact form provided on this website.
+
 
