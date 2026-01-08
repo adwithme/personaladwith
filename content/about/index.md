@@ -3,13 +3,90 @@ title: "About "
 Date: 2024-01-01
 description: ""
 ---
+# IT Professional  
+### ICT Support | Systems & Network Administration
 
-With over 12 years of experience in Information and Communication Technology (ICT), I am professional and passionate about driving digital transformation and operational excellence. My expertise spans system maintenance, network design, server management, and troubleshooting, enabling organizations to achieve seamless IT operations.
+Experienced IT professional with over eight years of experience supporting international development projects and public sector institutions. Focused on building stable, secure, and user-friendly IT environments while ensuring continuity of operations in both routine and high-pressure situations.
 
-My professional journey includes significant roles such as an ICT Service Officer for the Parliament Support Project of the United Nations Development Programme (UNDP), where I streamlined ICT infrastructure and spearheaded innovative solutions using tools like Power BI, SharePoint, and Power Automate. I also contributed to technical skills as a Computer Technician at the Judicial Council's Secretariat, ensuring the reliability and efficiency of IT system.
+Specialized in infrastructure management, enterprise systems, and cloud collaboration tools, with a strong emphasis on reliability, security, and clear user support.
 
-Beyond my technical expertise, I excel in user training, procurement, budgeting, and vendor management. I believe in empowering team with the knowledge and tools required to embrace the emerging and evolving advanced technologies. With the degrees of the Bachelor of Business Science from Nepal Open University, my combined technical expertise with strategic thinking have made me a versatile and forward-thinking professional.
+---
 
-I enjoy exploring creative and innovative avenues like designing project reports and factsheets, blending my technical knowledge with an eye for creativity and innovation. I am fluent in the languages including English and Nepali and have basic knowledge of Bhojpuri, which allows me to connect with diverse audiences.
+## What I Do
 
-This website reflects my journey,  professional achievements, and ongoing commitment and endeavours to using technology as a catalyst for growth and innovation. Warm welcome to you in my world of ICT and innovation!
+- Manage and maintain enterprise IT infrastructure with high availability  
+- Administer Windows and Linux server environments  
+- Secure and monitor networks using firewalls, VPNs, and access controls  
+- Support Microsoft 365, SharePoint, and cloud collaboration platforms  
+- Deliver Level 1 and Level 2 technical support  
+- Manage IT assets, audits, and procurement support  
+- Enable secure remote work and virtual collaboration  
+- Create clear technical documentation and user guidance  
+
+---
+
+## Experience
+
+### ICT Support Executive  
+*International Development Project*  
+
+Responsible for IT operations, systems administration, network security, collaboration platforms, and user support in a compliance-driven environment. Support business continuity, emergency response operations, and day-to-day organizational needs through reliable IT services.
+
+### Computer Technician  
+*Government Institution*  
+
+Provided hardware, software, and network support across departments. Managed installations, troubleshooting, preventive maintenance, and system upgrades in line with institutional IT policies.
+
+### Computer Instructor  
+*Educational Institution*  
+
+Delivered computer fundamentals and practical IT skills. Supported classroom technology and basic institutional systems.
+
+---
+
+## Key Contributions
+
+- Enabled uninterrupted operations through secure remote access solutions  
+- Led IT infrastructure deployment during office transitions  
+- Improved reporting and monitoring using dashboards and automation  
+- Strengthened IT asset tracking and audit readiness  
+- Reduced recurring support issues through documentation and user training  
+
+---
+
+## Skills
+
+**Systems & Infrastructure**  
+Windows Server, Linux, virtualization platforms, scripting and automation  
+
+**Cloud & Collaboration**  
+Microsoft 365, SharePoint, cloud services, reporting tools  
+
+**Networking & Security**  
+Enterprise networking, VPN, firewall configuration, monitoring and incident response  
+
+**IT Operations**  
+IT service management, disaster recovery planning, backup strategies, asset management  
+
+---
+
+## Certifications
+
+- Linux and systems administration certifications  
+- IT service management certification  
+- Enterprise IT and networking certifications  
+- Cloud and productivity platform certifications  
+
+---
+
+## Education
+
+Bachelor’s degree with ICT specialization  
+
+---
+
+
+## Contact
+
+For professional inquiries or collaboration opportunities, please use the contact form available on this website.
+
